@@ -1,4 +1,4 @@
-update=lun 03 jun 2019 21:54:23 -03
+update=lun 17 jun 2019 16:32:17 -03
 version=1
 last_client=kicad
 [general]
@@ -239,7 +239,7 @@ dPairViaGap=0.25
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=
+PlotDirectoryName=PDF/Esquematico
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
