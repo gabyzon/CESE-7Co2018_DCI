@@ -1,0 +1,9 @@
+3DX_CUI_Supplier:
+     CUI, Inc
+
+3DX_CUI_Description:
+     3.5 mm Right-Angle Stereo Jack, 3 Pin PCB Mount, Isolated Ground
+
+3DX_CUI_Model Number:
+     SJ1-3533NG
+

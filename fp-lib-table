@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name 3D_models)(type KiCad)(uri ${KIPRJMOD}/3D_models)(options "")(descr ""))
+)
